@@ -64,3 +64,56 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
+# Gophish Phishing Simulator (Kali Linux + Mailtrap)
+
+A hands-on phishing simulation project demonstrating safe phishing campaigns using **Gophish** on Kali Linux with **Mailtrap**.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Kali Linux** – platform for running Gophish  
+- **Gophish** – open-source phishing framework  
+- **Mailtrap** – safe SMTP server for testing emails  
+- **Git & GitHub** – version control and project showcase  
+
+---
+
+## 📋 Project Overview
+This project simulates a phishing attack in a safe, controlled environment. The main steps performed:
+
+1. Installed and configured **Gophish** on Kali Linux  
+2. Set up **Mailtrap** as a sending profile (SMTP)  
+3. Created phishing **email templates** and **landing pages**  
+4. Ran a test phishing campaign  
+5. Collected results in CSV format and captured screenshots  
+
+> ⚠️ **Note:** This project is for educational purposes only. Do not use it against real users.
+
+---
+
+## 📁 Files Included
+- `README.md` – project explanation  
+- `results.csv` – phishing campaign results  
+- `screenshots/` – campaign UI and email screenshots  
+- `docs/` – project notes, configuration explanations  
+- `license` – project license (if applicable)  
+
+---
+
+## 📸 Screenshots
+_Add some images of your Gophish dashboard, campaign results, or email templates here:_  
+
+![Gophish Dashboard](screenshots/dashboard.png)  
+![Campaign Results](screenshots/results.png)  
+
+---
+
+## 🔗 GitHub Repository
+[View the project on GitHub](https://github.com/sakshii1606/gophish-phishing-simulator)
+
+---
+
+## 👩‍💻 Author
+Sakshi Phadtare  
+Cybersecurity Enthusiast | SOC Analyst in training  
+
